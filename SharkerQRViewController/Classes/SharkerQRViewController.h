@@ -6,11 +6,11 @@
 //  Copyright © 2019 Sharker. All rights reserved.
 //
 
-#import "ViewController.h"
+#import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface SharkerQRViewController : ViewController
+@interface SharkerQRViewController : UIViewController
 
 @end
 
