@@ -1,0 +1,6 @@
+framework module Pods_SharkerQRViewController_Example {
+  umbrella header "Pods-SharkerQRViewController_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
