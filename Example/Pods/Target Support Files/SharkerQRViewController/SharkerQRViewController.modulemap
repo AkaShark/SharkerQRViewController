@@ -1,0 +1,6 @@
+framework module SharkerQRViewController {
+  umbrella header "SharkerQRViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
