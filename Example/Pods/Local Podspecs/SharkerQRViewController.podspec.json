@@ -1,6 +1,6 @@
 {
   "name": "SharkerQRViewController",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "base on AV QRScanner better for you",
   "description": "基于AVFountation的封装的二维码扫描器",
   "homepage": "https://akashark.github.io/",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/AkaShark/SharkerQRViewController.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

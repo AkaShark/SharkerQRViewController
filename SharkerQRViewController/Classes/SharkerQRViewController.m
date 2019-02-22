@@ -7,6 +7,8 @@
 //
 
 #import "SharkerQRViewController.h"
+#import "UIButton+verticalImageAndTitle.h"
+#import "SharkerScanBackgroundView.h"
 
 @interface SharkerQRViewController ()
 

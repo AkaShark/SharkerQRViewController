@@ -13,6 +13,7 @@
 #import "SharkerQRCodeScanner.h"
 #import "SharkerQRViewController.h"
 #import "SharkerScanBackgroundView.h"
+#import "UIButton+verticalImageAndTitle.h"
 
 FOUNDATION_EXPORT double SharkerQRViewControllerVersionNumber;
 FOUNDATION_EXPORT const unsigned char SharkerQRViewControllerVersionString[];
